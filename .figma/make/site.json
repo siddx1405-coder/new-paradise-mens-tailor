@@ -1,0 +1,12 @@
+{
+  "description": "Bespoke men's tailoring, selected fabrics and precise fitting in Doha, Qatar.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "New Paradise Men's Tailor",
+  "language": "ar"
+}
